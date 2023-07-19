@@ -3,7 +3,7 @@ A compilation of great open-sources projects in the fields of AI and ML
 
 | Projects        | Description     | Links           |
 |:----------------|:----------------|:----------------|
-| [Prompt-Engineering-Guide]([https://github.com/robertdalla/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)) | Guides, papers, lecture, notebooks and resources for prompt engineering | [Live](https://www.promptingguide.ai/) |
+| [Prompt-Engineering-Guide]([https://github.com/robertdalla/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | Guides, papers, lecture, notebooks and resources for prompt engineering | [Live](https://www.promptingguide.ai/) |
 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | An experimental open-source attempt to make GPT-4 fully autonomous | [Demo](https://user-images.githubusercontent.com/70048414/232352935-55c6bf7c-3958-406e-8610-0913475a0b05.mp4) [Doc](https://docs.agpt.co/) |
 | [langchain](https://github.com/hwchase17/langchain) | Building applications with LLMs through composability | [Doc](https://python.langchain.com/docs/get_started/introduction) |
 | [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) | Specify what you want it to build, the AI asks for clarification, and then builds it. | [Demo](https://twitter.com/antonosika/status/1667641038104674306) |
